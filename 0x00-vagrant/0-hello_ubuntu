@@ -1,1 +1,2 @@
-the core operating system name
+#!/bin/bash
+prints the core operating system name
